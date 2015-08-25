@@ -17,12 +17,13 @@ Write a program that
 - Handle the conversion of an integer into a Roman Numeral in a separate
   function.
 - Include your copyright and license information at the top of the file, e.g.
-  ```
-  /* ----------------------------------------------------------------------------
-   * Copyright &copy; 2015 Ben Blazak <bblazak@fullerton.edu>
-   * Released under the [MIT License] (http://opensource.org/licenses/MIT)
-   * ------------------------------------------------------------------------- */
-  ```
+
+    ```c++
+    /* ----------------------------------------------------------------------------
+     * Copyright &copy; 2015 Ben Blazak <bblazak@fullerton.edu>
+     * Released under the [MIT License] (http://opensource.org/licenses/MIT)
+     * ------------------------------------------------------------------------- */
+    ```
 
 ### Assumptions
 

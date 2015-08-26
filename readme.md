@@ -1,5 +1,3 @@
-Due: TBA
-
 ## Roman Numerals
 
 ### Requirements
